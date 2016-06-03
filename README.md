@@ -1,2 +1,3 @@
 # hello-world
-Just another one
+
+Greetings, I'm Steven and trying out GitHub
